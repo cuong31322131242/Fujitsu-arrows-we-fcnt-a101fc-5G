@@ -1,4 +1,8 @@
+android 13 fujitsu arrow we fcnt a101fc
+
 delete all bloatware on fujitsu arrow we fcnt a101fc
+fix lag fujitsu arrow we fcnt a101fc
+
 
 add bloatware :
 
