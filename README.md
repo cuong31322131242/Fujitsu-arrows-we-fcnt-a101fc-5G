@@ -10,3 +10,5 @@ update bloatware :
 com.fcnt.mobile_phone.phoneappcallscreening
 
 com.felicanetworks.mfc
+
+com.atok.mobile.im.fujitsu.theme.model.ip
