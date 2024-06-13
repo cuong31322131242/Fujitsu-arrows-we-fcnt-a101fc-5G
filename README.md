@@ -23,6 +23,10 @@ fix lag fujitsu arrow we fcnt a101fc
 
 Update bloatware :
 
+com.fujitsu.mobile_phone.fjhce
+
+
+
 com.fcnt.mobile_phone.phoneappcallscreening
 
 com.felicanetworks.mfc
