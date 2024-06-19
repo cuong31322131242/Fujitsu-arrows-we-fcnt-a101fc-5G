@@ -27,5 +27,11 @@ com.atok.mobile.im.fujitsu.theme.model.ip
 
 com.google.android.marvin.talkback
 
+com.facebook.services
+
+com.facebook.appmanager
+
+com.facebook.system
+
 If you don't have a car 😁:
 com.google.android.projection.gearhead
