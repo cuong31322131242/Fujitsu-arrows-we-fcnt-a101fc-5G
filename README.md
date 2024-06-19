@@ -26,3 +26,6 @@ com.felicanetworks.mfc
 com.atok.mobile.im.fujitsu.theme.model.ip
 
 com.google.android.marvin.talkback
+
+If you don't have a car 😁:
+com.google.android.projection.gearhead
