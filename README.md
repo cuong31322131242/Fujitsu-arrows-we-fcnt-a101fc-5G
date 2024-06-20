@@ -17,7 +17,7 @@ Update bloatware :
 
 com.fujitsu.mobile_phone.fjhce
 
-
+com.fujitsu.mobile_phone.fjextendedcontacts
 
 com.fcnt.mobile_phone.phoneappcallscreening
 
