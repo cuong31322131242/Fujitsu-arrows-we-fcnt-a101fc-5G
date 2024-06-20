@@ -35,5 +35,10 @@ com.facebook.system
 
 com.fcnt.mobile_phone.phoneappfakecall
 
+com.fcnt.mobile_phone.phoneappprivacynumberssetting
+
+
+
+
 If you don't have a car 😁:
 com.google.android.projection.gearhead
