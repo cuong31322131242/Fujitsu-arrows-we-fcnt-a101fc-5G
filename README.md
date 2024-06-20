@@ -33,5 +33,7 @@ com.facebook.appmanager
 
 com.facebook.system
 
+com.fcnt.mobile_phone.phoneappfakecall
+
 If you don't have a car 😁:
 com.google.android.projection.gearhead
