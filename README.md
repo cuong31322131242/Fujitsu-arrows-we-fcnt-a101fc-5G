@@ -39,6 +39,7 @@ com.fcnt.mobile_phone.phoneappprivacynumberssetting
 
 com.fujitsu.mobile_phone.OneTouchBuzzer
 
+com.fcnt.mobile_phone.oemconfigobserver
 
 If you don't have a car 😁:
 com.google.android.projection.gearhead
