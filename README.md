@@ -37,7 +37,7 @@ com.fcnt.mobile_phone.phoneappfakecall
 
 com.fcnt.mobile_phone.phoneappprivacynumberssetting
 
-
+com.fujitsu.mobile_phone.OneTouchBuzzer
 
 
 If you don't have a car 😁:
