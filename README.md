@@ -41,5 +41,15 @@ com.fujitsu.mobile_phone.OneTouchBuzzer
 
 com.fcnt.mobile_phone.oemconfigobserver
 
+com.fcnt.mobile_phone.collectdevicelog
+
+com.fujitsu.mobile_phone.log.aac
+
+com.android.stk
+
+
+
+
+
 If you don't have a car 😁:
 com.google.android.projection.gearhead
