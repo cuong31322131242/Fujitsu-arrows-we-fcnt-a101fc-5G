@@ -49,6 +49,10 @@ com.android.stk
 
 com.android.wallpaper.livepicker
 
+com.android.dreams.phototable
+
+
+
 
 
 If you don't have a car 😁:
