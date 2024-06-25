@@ -47,7 +47,7 @@ com.fujitsu.mobile_phone.log.aac
 
 com.android.stk
 
-
+com.android.wallpaper.livepicker
 
 
 
